@@ -9,3 +9,5 @@ Use of pandas and NumPy packages in order to parse the data and use it.
 sklearn package to use the ID3 algorithm and a few other learning methods.
 Transformation and filtering of the data in different ways, while keeping the best result marked for the learning algorithm .
 Biological analyzation of the genes that were used by our classifier with genome browsers such as USCS.
+ 
+ One can see the final product of the project under "Poster"
